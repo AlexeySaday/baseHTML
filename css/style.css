@@ -1,0 +1,18 @@
+figure {
+  border: thin wheat solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  margin: auto;
+  max-width: 300px;
+  background-color: black;
+}
+img {
+  max-height: 50px;
+}
+.fig {
+  background-color: black;
+  color: aliceblue;
+  height: 20px;
+  text-align: center;
+}
